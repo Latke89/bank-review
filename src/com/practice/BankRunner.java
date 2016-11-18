@@ -7,6 +7,7 @@ public class BankRunner {
 
 	public static void main(String[] args) {
 		System.out.println("This is a bank!");
+		Bank myBank = new Bank();
 	}
 
 }
